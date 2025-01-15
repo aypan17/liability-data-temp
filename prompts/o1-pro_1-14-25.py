@@ -4,8 +4,8 @@ For each case, describe its context, the crux, the decision, and the various leg
 
 Here are some types of cases to consider (but there might be more to think about yourself or some of the scenarios may not apply):
 - Easy scenarios: cases where it's clear what the legal / moral reasoning is.
-- Counterintuitive scenarios due to alternative action: cases where legal principles suggest the defendent should have taken a course of action contrary to actions that would be intuitive to reasonable person's morals.
-- Counterintuitive scenarios due to null action: cases where legal principles do not assign liability to the defendent, yet a reasonable person's might be affronted by the defendent's actions.
+- Counterintuitive scenarios due to alternative action: cases where legal principles suggest the defendant should have taken a course of action contrary to actions that would be intuitive to reasonable person's morals.
+- Counterintuitive scenarios due to null action: cases where legal principles do not assign liability to the defendant, yet a reasonable person's might be affronted by the defendant's actions.
 - Hard scenarios due to competing intuitions: Scenarios where it's clear what the factors guiding the legal / moral reasoning is, but different observers might place different weight to each factor depending on their beliefs, preventing clear consensus.
 - Hard scenarios due to confused intuitions: Scenarios where it's not clear what the factors guiding the legal / moral reasoning is, or if there are factors that might not fully apply.
 - Other scenarios: Any other types of scenarios that you believe do not fall into the above categories.
