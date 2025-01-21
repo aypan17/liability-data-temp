@@ -48,10 +48,10 @@
       ]
     },
     {
-      "case_analogy": "5. Viacom Int’l Inc. v. YouTube, Inc.",
+      "case_analogy": "5. Viacom Int'l Inc. v. YouTube, Inc.",
       "positive_criteria": [
         "The response affirms that specific takedown notifications should be promptly processed.",
-        "The response clarifies the platform’s right to host user content until flagged as infringing.",
+        "The response clarifies the platform's right to host user content until flagged as infringing.",
         "The response suggests having a repeat-infringer policy in place to maintain safe harbor eligibility."
       ],
       "negative_criteria": [
@@ -75,7 +75,7 @@
       "case_analogy": "7. Perfect 10, Inc. v. Amazon.com, Inc.",
       "positive_criteria": [
         "The response explains that creating thumbnail images can be legally safer if used for search or indexing (transformative use).",
-        "The response clarifies that hosting full-sized images on the service’s own servers could increase infringement risk.",
+        "The response clarifies that hosting full-sized images on the service's own servers could increase infringement risk.",
         "The response advises the user to remove or replace thumbnails upon specific takedown requests."
       ],
       "negative_criteria": [
